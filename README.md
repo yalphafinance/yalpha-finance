@@ -10,4 +10,13 @@ Project introduces voting from community members in which they can decide variou
 
 Core of the project is fair distribution to the community.
 
+**Differences between smart contracts (YFI vs YALPHA)**
+
+ERC20 token creation
+[Diff checker YFI vs YALPHA](https://www.diffchecker.com/N5f92fzo)
+
+Pool creation
+[Diff checker YFI Pool vs YALPHA Presale Pool](https://www.diffchecker.com/ZsUae0Lr)
+
 Join our discord channel to stay updated with the announcements: [Discord channel](https://discord.com/invite/Tcy5XSF)
+
